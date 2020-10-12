@@ -1,4 +1,4 @@
-<h1 style="background-color:#ff6347;"> Team 1234 </h1><br/>
+# Team 1234 <br/>
 PDX/ECE411
 
 A group of student collolaborating to make engineer something for a FUN class known as ECE 411 at Home for Portland State University.
