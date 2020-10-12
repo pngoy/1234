@@ -18,4 +18,4 @@ A group of student collolaborating to make engineer something for a FUN class kn
   <li>Automatic bird feeder</li> 
   <li>Automatic fan </li>
 </ol>
-[Project Description](https://github.com/pngoy/1234/wiki/Welcome-to-Team-1234-wiki!) 
+Look at [project](https://github.com/pngoy/1234/wiki/Welcome-to-Team-1234-wiki!] description
