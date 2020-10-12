@@ -19,3 +19,4 @@ A group of student collolaborating to make engineer something for a FUN class kn
   <li>Automatic fan </li>
 </ol>
 Look at [project](https://github.com/pngoy/1234/wiki/Welcome-to-Team-1234-wiki!] description
+Please look at the [project ideas](https://github.com/pngoy/1234/wiki/Welcome-to-Team-1234-wiki!) for full descriptions of all 3 ideas!
