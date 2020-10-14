@@ -7,16 +7,16 @@ A group of student collolaborating to make engineer something for a FUN class kn
 <ul>
   <li>Prachthearat Ngoy (Pngoy@pdx.edu)</li>
   <li>Mai Her (hermai@pdx.edu)</li>
-  <li></li>
+  <li>Uzias Cruz (uzicruz@pdx.edu)</li>
   <li></li>
 </ul>
 
 
 ## 3 Brainstormed Ideas: <br />
 <ol>
-  <li>Keypad door lock</li>  
-  <li>Automatic bird feeder</li> 
-  <li>Automatic fan </li>
+  <li>Keypad Door Lock</li>  
+  <li>Automatic Bird Feeder</li> 
+  <li>Automatic Fan </li>
 </ol>
 
 [Project Description](https://github.com/pngoy/1234/wiki)
