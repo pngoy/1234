@@ -8,7 +8,7 @@ A group of student collolaborating to make engineer something for a FUN class kn
   <li>Prachthearat Ngoy (Pngoy@pdx.edu)</li>
   <li>Mai Her (hermai@pdx.edu)</li>
   <li>Uzias Cruz (uzicruz@pdx.edu)</li>
-  <li></li>
+  <li>Naiqi Yao (naiqi@pdx.edu)</li>
 </ul>
 
 
