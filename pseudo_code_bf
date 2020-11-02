@@ -1,0 +1,14 @@
+Pseudo_code_bf (birdfeeder)
+
+Intialize setup
+
+  loop for voltage sensor of the photosensor
+
+    if voltage is below (x)
+      Turn step motor for 360 degree rotations
+      stop after 360 rotation
+      exit statement and return to loop
+
+  return to loop for read photo sensor voltage read.
+
+got back to intialize setup if loop is broken
