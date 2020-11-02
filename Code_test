@@ -1,0 +1,43 @@
+
+/*
+ Bird Feeder test code
+This program is a test code of the Bird feeder
+The motor is attached to digital pins 7 - 11 of the Arduino. board
+
+Pin 7-blue
+pin 8-pink
+pin 9-yellow
+pin 10-orange
+pin 11-red
+
+ */
+
+#include <Stepper.h>
+
+const int stepsPerRevolution = 200;  // change this to fit the number of steps per revolution
+// for your motor
+
+
+// initialize the stepper library on pins 7 through 11:
+Stepper myStepper(stepsPerRevolution, 7, 8, 9, 10, 11);
+
+int stepCount = 0;  // number of steps the motor has taken
+
+void setup() {
+  // nothing to do inside the setup
+}
+
+void loop() {
+  // read the sensor value:
+  int sensorReading = analogRead(A0); //link read out pin to motor speed
+  // map it to a range from 0 to 100:
+    int motorSpeed = map(sensorReading, 0, 1023, 0, 100);
+  // set the motor speed:
+    if (motorSpeed < 4) // if voltage readout is at 4 voltage or more the motor is going to spin 
+    {
+      myStepper.setSpeed(motorSpeed);
+      // step 1/100 of a revolution:
+      myStepper.step(stepsPerRevolution / 100);
+    }
+}
+
