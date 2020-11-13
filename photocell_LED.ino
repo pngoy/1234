@@ -23,7 +23,7 @@ void setup() {
   pinMode(ledPin, OUTPUT);
   lightCal = analogRead(sensorPin);
   Serial.begin(9600);                   // Read out serial  
-  myservo.attach(8);                    // attaches the servo on pin 9 to the servo object
+  myservo.attach(8);                    // attaches the servo on pin 8 to the servo object
 }
 
 void loop() {
