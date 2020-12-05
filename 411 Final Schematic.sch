@@ -8437,6 +8437,11 @@ Please send any comments to: &lt;a href="mailto:messi@users.sourceforge.net"&gt;
 <sheets>
 <sheet>
 <plain>
+<text x="15.24" y="53.34" size="1.778" layer="91">The voltage will apply power to all components.</text>
+<text x="139.7" y="48.26" size="1.778" layer="91" rot="R90">The photoresistor will detect change in light.</text>
+<text x="68.58" y="81.28" size="1.778" layer="91">The servo motor will receive a signal from the processor.</text>
+<text x="53.34" y="17.78" size="1.778" layer="91">The ATMega processor will take the inputs (photocell) to control output (Servo Motor).</text>
+<text x="27.94" y="27.94" size="1.778" layer="91">Generate the Clock for the ATMega328</text>
 </plain>
 <instances>
 <instance part="U1" gate="A" x="91.44" y="53.34" smashed="yes">
