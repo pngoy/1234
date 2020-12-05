@@ -8442,6 +8442,23 @@ Please send any comments to: &lt;a href="mailto:messi@users.sourceforge.net"&gt;
 <text x="68.58" y="81.28" size="1.778" layer="91">The servo motor will receive a signal from the processor.</text>
 <text x="53.34" y="17.78" size="1.778" layer="91">The ATMega processor will take the inputs (photocell) to control output (Servo Motor).</text>
 <text x="27.94" y="27.94" size="1.778" layer="91">Generate the Clock for the ATMega328</text>
+<text x="149.86" y="10.16" size="1.778" layer="95">Team 14:
+Mai Her 
+Prachthearat Ngoy
+Naiqi Yao
+Uzias Cruz</text>
+<text x="149.86" y="27.94" size="1.778" layer="95">Title: ECE411 
+Automatic Bird Feeder</text>
+<text x="149.86" y="5.08" size="1.778" layer="95">Date: 12/04/2020 7:10 PM</text>
+<text x="177.8" y="17.78" size="1.778" layer="95">Document Number:
+Final Schematic</text>
+<text x="149.86" y="58.42" size="1.778" layer="95">Notes
+VCC=9V
+Inputs:
+- Photoresistor
+- Voltage
+Outputs:</text>
+<text x="149.86" y="55.88" size="1.778" layer="95">- Servo Motor</text>
 </plain>
 <instances>
 <instance part="U1" gate="A" x="91.44" y="53.34" smashed="yes">
@@ -8606,6 +8623,10 @@ Please send any comments to: &lt;a href="mailto:messi@users.sourceforge.net"&gt;
 </schematic>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
